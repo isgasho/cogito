@@ -1,29 +1,11 @@
 TODO:
 
-[X] make repo public
-[X] dockerhub create repo
-[X] update readme with link to dockerhub
-[X] travis credentials
-[X] travis build status
-[X] minimal travis build (no push)
-[X] dockerignore
-[X] test credentials, real tests
-[X] build image on travis
-[X] dockerhub credentials
-    [X] DOCKER_USERNAME
-    [X] DOCKER_ORG
-    [X] DOCKER_TOKEN
-[X] push images (with latest) to travis
 [X] update README, CONTRIBUTING, look for FIXME, TODO, WRITEME
-
 [X] merge PR to master
 [X] update CHANGELOG
-[X] test new image with tag `master`
-[ ] issue tag v0.3.0
-[ ] update our pipelines to use dockerhub and latest
-[ ] upgrade generate.py to use latest
-[ ] make post on discourse
-[ ] make PR for dutyfree ?
+[X] test new image with tag `master`, check commit
+[X] issue tag v0.3.0
+[X] test new image with tag `latest`, check commit
 
 [ ] BUG: the tag is not passed correctly any more:
 
